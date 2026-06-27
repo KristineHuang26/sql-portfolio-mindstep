@@ -1,0 +1,1001 @@
+user_id,signup_date,country,province,age,acquisition_channel
+1,2024-12-24,Canada,QC,29,App Store
+2,2026-03-13,Canada,QC,37,Paid Social
+3,2024-10-01,Canada,QC,32,Paid Social
+4,2026-03-13,Canada,ON,43,Paid Social
+5,2025-06-12,Canada,NS,47,Referral
+6,2025-08-15,Canada,QC,31,Organic
+7,2025-08-11,Canada,QC,24,Paid Social
+8,2025-05-29,Canada,NS,36,Referral
+9,2026-03-04,Canada,QC,34,Organic
+10,2025-09-06,Canada,ON,29,Referral
+11,2024-10-17,Canada,BC,34,App Store
+12,2024-12-13,Canada,ON,18,Paid Social
+13,2025-09-09,Canada,QC,22,Referral
+14,2024-11-13,Canada,BC,41,Organic
+15,2025-05-09,Canada,QC,18,Referral
+16,2026-03-25,Canada,QC,49,Paid Social
+17,2024-10-28,Canada,QC,38,Organic
+18,2025-04-05,USA,NY,32,Paid Social
+19,2025-07-20,Canada,QC,18,Referral
+20,2025-01-25,Canada,QC,31,Organic
+21,2026-03-29,Canada,ON,30,Referral
+22,2025-09-06,Canada,QC,21,Email
+23,2026-02-04,Canada,ON,31,Organic
+24,2025-02-11,Canada,AB,18,Paid Social
+25,2024-11-05,Canada,ON,22,Organic
+26,2026-03-21,Canada,MB,25,Organic
+27,2024-12-27,Canada,BC,24,Referral
+28,2024-12-24,Canada,QC,29,Organic
+29,2024-09-04,USA,CA,36,Paid Social
+30,2025-03-02,Canada,ON,26,Organic
+31,2025-07-03,Canada,MB,25,Paid Social
+32,2025-02-13,Canada,ON,30,App Store
+33,2026-02-26,USA,NY,22,Organic
+34,2025-09-07,USA,NY,24,App Store
+35,2025-07-12,Canada,QC,31,Organic
+36,2026-01-11,Canada,NS,42,Email
+37,2026-02-28,Canada,AB,38,Paid Social
+38,2025-05-30,Canada,ON,38,Referral
+39,2025-04-05,USA,NY,31,Referral
+40,2025-10-14,USA,CA,18,Referral
+41,2025-11-23,USA,NY,24,Organic
+42,2024-09-22,Canada,BC,33,Organic
+43,2025-04-14,Canada,QC,30,Organic
+44,2024-10-03,Canada,MB,27,Organic
+45,2025-05-02,Canada,QC,19,Referral
+46,2025-12-29,Canada,QC,32,Paid Social
+47,2025-10-22,Canada,QC,38,Paid Social
+48,2025-12-23,Canada,MB,36,Organic
+49,2024-12-10,Canada,QC,28,Organic
+50,2025-03-16,Canada,QC,18,Paid Social
+51,2025-11-07,Canada,QC,18,Organic
+52,2026-03-18,Canada,QC,35,Referral
+53,2026-03-08,Canada,NS,51,App Store
+54,2025-02-18,Canada,ON,27,Paid Social
+55,2025-10-16,USA,NY,31,Paid Social
+56,2025-12-10,Canada,QC,31,Referral
+57,2026-03-24,Canada,BC,25,Organic
+58,2024-10-30,Canada,ON,31,Paid Social
+59,2025-07-19,Canada,QC,21,App Store
+60,2025-02-09,Canada,QC,25,Paid Social
+61,2025-03-10,Canada,QC,47,Paid Social
+62,2025-05-11,Canada,ON,38,Organic
+63,2024-11-23,Canada,ON,21,Email
+64,2025-03-29,Canada,BC,25,Paid Social
+65,2025-05-30,Canada,ON,27,Paid Social
+66,2024-11-14,Canada,QC,24,Referral
+67,2026-03-31,USA,CA,36,Organic
+68,2025-08-24,USA,NY,33,App Store
+69,2025-09-14,Canada,QC,20,Paid Social
+70,2026-02-24,Canada,QC,35,App Store
+71,2025-07-04,USA,CA,45,Organic
+72,2024-12-19,Canada,AB,42,Organic
+73,2025-06-16,Canada,BC,29,Referral
+74,2025-05-29,Canada,ON,25,Organic
+75,2024-10-23,Canada,QC,24,Organic
+76,2025-01-12,Canada,BC,34,Organic
+77,2025-11-27,Canada,ON,29,Organic
+78,2025-01-31,Canada,ON,31,App Store
+79,2026-03-20,Canada,QC,36,App Store
+80,2024-10-11,USA,NY,36,Organic
+81,2025-05-14,Canada,BC,24,App Store
+82,2025-02-06,USA,NY,40,Organic
+83,2025-02-14,USA,CA,37,Organic
+84,2025-08-07,Canada,AB,18,Paid Social
+85,2025-05-13,Canada,QC,32,App Store
+86,2025-12-26,Canada,QC,26,App Store
+87,2025-12-16,Canada,ON,38,Organic
+88,2025-03-17,Canada,ON,18,Organic
+89,2024-11-11,USA,CA,28,Paid Social
+90,2026-03-04,Canada,ON,43,Organic
+91,2025-05-26,Canada,QC,37,Organic
+92,2025-11-19,Canada,ON,29,App Store
+93,2025-11-21,Canada,BC,22,Paid Social
+94,2025-05-19,Canada,QC,30,Paid Social
+95,2026-02-15,USA,NY,18,App Store
+96,2025-03-21,Canada,ON,27,Organic
+97,2025-08-05,Canada,BC,28,Email
+98,2026-02-02,Canada,ON,27,Paid Social
+99,2025-10-18,Canada,BC,25,Referral
+100,2025-09-24,Canada,BC,29,Email
+101,2025-07-06,Canada,ON,34,Organic
+102,2025-07-27,Canada,ON,24,Paid Social
+103,2025-04-07,Canada,ON,37,App Store
+104,2024-11-26,Canada,QC,18,Referral
+105,2025-08-10,Canada,QC,37,Paid Social
+106,2025-03-23,Canada,QC,29,Organic
+107,2025-12-31,Canada,BC,32,App Store
+108,2025-03-19,Canada,AB,21,Paid Social
+109,2025-10-15,Canada,QC,30,App Store
+110,2024-12-19,Canada,AB,30,Organic
+111,2026-02-13,Canada,ON,18,Organic
+112,2025-01-15,Canada,NS,23,Referral
+113,2026-03-27,Canada,BC,49,Referral
+114,2026-01-30,Canada,ON,25,Email
+115,2025-12-01,USA,NY,30,Organic
+116,2025-05-12,Canada,NS,20,Organic
+117,2026-02-16,Canada,ON,31,Referral
+118,2025-04-29,Canada,QC,40,Paid Social
+119,2026-03-08,Canada,QC,36,Organic
+120,2025-04-08,Canada,QC,38,Paid Social
+121,2026-03-10,Canada,ON,46,Paid Social
+122,2024-09-21,Canada,MB,37,App Store
+123,2025-09-25,Canada,ON,38,Paid Social
+124,2025-11-04,Canada,ON,28,App Store
+125,2025-04-14,Canada,ON,29,Paid Social
+126,2025-10-20,Canada,AB,41,App Store
+127,2025-01-09,USA,CA,18,Referral
+128,2024-09-28,Canada,QC,26,Paid Social
+129,2025-12-17,Canada,QC,30,Paid Social
+130,2025-08-12,Canada,AB,38,Paid Social
+131,2025-11-06,Canada,QC,32,Paid Social
+132,2025-08-25,Canada,QC,31,Organic
+133,2024-10-12,Canada,AB,36,Organic
+134,2025-02-04,Canada,QC,29,Paid Social
+135,2024-12-27,Canada,ON,33,App Store
+136,2025-02-19,Canada,BC,44,Email
+137,2024-12-27,Canada,AB,35,Paid Social
+138,2025-07-17,Canada,ON,37,Email
+139,2025-09-20,Canada,ON,30,Referral
+140,2025-05-07,Canada,QC,27,App Store
+141,2025-01-02,Canada,AB,28,Paid Social
+142,2025-09-15,Canada,QC,29,Referral
+143,2024-09-13,Canada,MB,32,Email
+144,2025-12-15,Canada,AB,27,Paid Social
+145,2026-02-17,USA,CA,28,Paid Social
+146,2026-01-09,Canada,ON,47,App Store
+147,2025-06-02,Canada,ON,31,Organic
+148,2025-12-06,Canada,QC,52,Paid Social
+149,2025-09-24,Canada,ON,23,Paid Social
+150,2025-08-30,Canada,AB,31,Paid Social
+151,2025-06-10,Canada,ON,25,Organic
+152,2025-10-22,Canada,ON,30,App Store
+153,2026-01-01,Canada,BC,18,Organic
+154,2025-04-15,Canada,ON,31,Organic
+155,2025-09-13,Canada,ON,21,App Store
+156,2025-08-05,Canada,ON,29,Paid Social
+157,2025-07-11,Canada,QC,35,Organic
+158,2026-03-03,USA,CA,35,Referral
+159,2025-03-16,Canada,QC,18,Email
+160,2026-02-20,Canada,BC,32,Email
+161,2025-03-18,Canada,QC,26,Referral
+162,2025-01-08,Canada,QC,36,Email
+163,2026-03-21,Canada,QC,43,App Store
+164,2024-12-15,USA,NY,26,Paid Social
+165,2025-12-25,Canada,ON,18,Organic
+166,2026-01-03,Canada,QC,50,Organic
+167,2026-01-17,Canada,QC,28,Organic
+168,2026-03-31,USA,CA,28,Organic
+169,2025-05-13,Canada,QC,32,App Store
+170,2025-04-20,Canada,AB,18,Paid Social
+171,2025-11-28,Canada,QC,22,Paid Social
+172,2024-11-01,Canada,BC,25,App Store
+173,2025-04-01,Canada,BC,30,Organic
+174,2026-03-20,Canada,QC,34,Organic
+175,2025-12-06,Canada,BC,28,Organic
+176,2025-06-17,Canada,AB,31,Paid Social
+177,2025-04-28,USA,NY,33,Referral
+178,2025-03-22,Canada,ON,18,Paid Social
+179,2025-01-31,USA,NY,32,Organic
+180,2025-07-12,Canada,BC,27,App Store
+181,2025-06-23,Canada,ON,23,Paid Social
+182,2025-06-06,Canada,ON,32,Paid Social
+183,2024-11-22,Canada,BC,42,Referral
+184,2024-09-27,Canada,QC,21,Email
+185,2024-09-22,USA,CA,27,Organic
+186,2025-02-27,Canada,ON,24,Referral
+187,2025-06-12,Canada,QC,20,Paid Social
+188,2024-12-03,Canada,ON,24,Paid Social
+189,2025-07-26,Canada,BC,36,Referral
+190,2025-06-23,Canada,BC,24,Paid Social
+191,2026-03-18,Canada,QC,36,Organic
+192,2025-10-19,Canada,MB,34,App Store
+193,2024-09-02,Canada,BC,22,Organic
+194,2025-09-06,Canada,BC,28,Paid Social
+195,2025-11-27,Canada,AB,34,Email
+196,2025-11-23,USA,NY,41,Paid Social
+197,2024-09-30,USA,CA,25,Organic
+198,2026-03-19,Canada,QC,26,Paid Social
+199,2025-04-19,USA,CA,39,Organic
+200,2025-02-05,Canada,ON,25,Referral
+201,2026-02-04,Canada,AB,22,Paid Social
+202,2025-12-12,Canada,ON,36,Paid Social
+203,2026-02-03,Canada,AB,33,App Store
+204,2025-10-30,Canada,ON,33,App Store
+205,2025-06-01,Canada,NS,29,Referral
+206,2026-01-15,Canada,MB,38,Paid Social
+207,2026-01-09,Canada,ON,20,Paid Social
+208,2025-07-27,Canada,MB,27,Email
+209,2025-05-03,Canada,ON,32,Organic
+210,2025-12-29,Canada,AB,46,App Store
+211,2025-10-01,USA,CA,34,Organic
+212,2024-10-08,Canada,QC,18,Email
+213,2025-08-06,Canada,MB,37,Paid Social
+214,2025-12-12,Canada,QC,24,Organic
+215,2025-02-06,Canada,QC,32,Referral
+216,2025-10-13,Canada,BC,24,App Store
+217,2026-03-01,Canada,ON,25,App Store
+218,2026-03-09,Canada,QC,44,Organic
+219,2025-06-22,USA,CA,30,Organic
+220,2024-12-12,Canada,ON,21,Referral
+221,2024-09-30,Canada,QC,33,Paid Social
+222,2025-01-28,Canada,QC,23,Paid Social
+223,2025-03-04,Canada,QC,47,Referral
+224,2025-05-05,Canada,ON,39,Referral
+225,2025-04-26,Canada,ON,30,Organic
+226,2025-12-21,USA,NY,37,Referral
+227,2025-02-09,Canada,QC,56,Organic
+228,2025-11-09,Canada,BC,21,Paid Social
+229,2025-07-07,Canada,QC,23,Organic
+230,2025-09-03,Canada,ON,37,Email
+231,2025-06-30,Canada,QC,35,Organic
+232,2024-10-21,USA,NY,23,App Store
+233,2025-06-21,Canada,AB,33,Organic
+234,2025-03-14,Canada,BC,47,Referral
+235,2025-01-19,Canada,BC,41,Paid Social
+236,2025-11-26,Canada,QC,23,Paid Social
+237,2025-01-13,Canada,QC,26,Organic
+238,2025-01-14,Canada,AB,45,App Store
+239,2025-09-10,Canada,ON,45,Organic
+240,2026-01-07,USA,CA,22,Organic
+241,2025-08-13,Canada,NS,27,App Store
+242,2025-04-20,Canada,MB,31,Referral
+243,2025-10-12,USA,CA,33,App Store
+244,2024-09-15,Canada,QC,22,Organic
+245,2025-09-13,Canada,BC,25,App Store
+246,2025-09-16,Canada,QC,20,Organic
+247,2024-09-26,Canada,BC,38,Referral
+248,2024-11-04,Canada,BC,28,Paid Social
+249,2025-07-07,Canada,BC,33,Organic
+250,2026-01-18,Canada,QC,32,Organic
+251,2026-03-05,Canada,QC,18,App Store
+252,2026-03-08,Canada,ON,34,App Store
+253,2025-02-06,USA,NY,21,Referral
+254,2025-06-14,Canada,QC,18,Paid Social
+255,2025-11-29,Canada,ON,31,Email
+256,2025-09-12,Canada,ON,39,Email
+257,2025-09-03,Canada,QC,27,Email
+258,2025-12-10,Canada,QC,54,Organic
+259,2024-09-22,Canada,QC,18,App Store
+260,2025-03-30,Canada,QC,54,App Store
+261,2025-04-01,Canada,BC,33,App Store
+262,2024-09-03,Canada,QC,24,Email
+263,2025-01-12,Canada,ON,32,App Store
+264,2025-01-13,Canada,QC,26,App Store
+265,2025-05-02,Canada,BC,38,Organic
+266,2025-11-06,Canada,ON,31,App Store
+267,2026-01-01,Canada,ON,23,Paid Social
+268,2025-04-15,USA,CA,40,Organic
+269,2026-02-16,Canada,ON,29,Email
+270,2025-10-17,Canada,ON,29,Organic
+271,2025-11-29,Canada,QC,41,Organic
+272,2025-06-09,Canada,BC,36,Referral
+273,2025-07-30,Canada,ON,24,Paid Social
+274,2025-11-15,Canada,QC,26,Referral
+275,2026-03-19,Canada,AB,33,Organic
+276,2025-08-14,Canada,NS,40,Paid Social
+277,2024-12-07,Canada,ON,28,Email
+278,2025-12-30,Canada,QC,37,App Store
+279,2024-12-05,Canada,ON,30,Organic
+280,2024-11-01,Canada,BC,22,Paid Social
+281,2025-08-04,Canada,BC,18,Email
+282,2025-11-08,Canada,MB,40,Referral
+283,2025-06-22,Canada,BC,23,Organic
+284,2026-01-07,Canada,QC,40,Organic
+285,2026-03-24,Canada,ON,31,App Store
+286,2026-03-29,USA,CA,19,App Store
+287,2026-03-25,Canada,QC,46,Organic
+288,2025-03-04,Canada,QC,23,App Store
+289,2025-08-14,Canada,ON,33,Referral
+290,2024-11-11,Canada,QC,35,Referral
+291,2024-10-02,Canada,QC,22,Paid Social
+292,2025-02-09,Canada,ON,29,Referral
+293,2024-11-26,USA,NY,39,Organic
+294,2024-11-23,Canada,QC,43,Referral
+295,2026-01-11,Canada,BC,25,Paid Social
+296,2025-08-20,Canada,ON,34,Organic
+297,2026-01-12,Canada,ON,28,Email
+298,2024-10-27,Canada,QC,36,Paid Social
+299,2025-04-05,Canada,AB,31,Organic
+300,2026-01-23,Canada,AB,23,Organic
+301,2025-09-25,Canada,ON,32,Referral
+302,2025-08-29,Canada,QC,42,App Store
+303,2024-10-14,Canada,ON,27,Paid Social
+304,2025-11-14,Canada,ON,31,Referral
+305,2025-11-02,Canada,QC,18,Organic
+306,2025-12-16,Canada,NS,44,Email
+307,2024-11-30,Canada,ON,38,Paid Social
+308,2024-11-20,Canada,ON,36,Paid Social
+309,2025-08-14,Canada,QC,31,Referral
+310,2026-02-26,Canada,ON,27,Email
+311,2025-08-24,Canada,ON,43,Organic
+312,2024-12-15,Canada,QC,27,Organic
+313,2025-02-04,Canada,AB,27,App Store
+314,2026-01-19,Canada,ON,26,Paid Social
+315,2025-12-04,Canada,BC,40,Email
+316,2025-07-28,Canada,MB,22,Referral
+317,2025-02-02,Canada,ON,18,App Store
+318,2024-10-28,Canada,ON,33,Organic
+319,2025-12-17,Canada,ON,46,Organic
+320,2024-12-02,Canada,BC,36,Paid Social
+321,2025-12-18,Canada,BC,45,Organic
+322,2025-03-12,Canada,ON,26,Paid Social
+323,2025-02-02,USA,CA,18,App Store
+324,2024-11-26,Canada,ON,36,Organic
+325,2025-05-12,Canada,AB,41,Referral
+326,2025-09-08,Canada,ON,30,Organic
+327,2025-10-24,Canada,AB,29,Referral
+328,2025-08-09,Canada,QC,28,Organic
+329,2025-10-01,Canada,QC,28,Email
+330,2025-02-01,Canada,ON,18,Referral
+331,2025-01-23,USA,NY,26,Referral
+332,2025-01-11,Canada,BC,43,Email
+333,2025-07-15,Canada,ON,26,Organic
+334,2026-02-22,Canada,QC,24,Referral
+335,2026-02-03,Canada,ON,27,Organic
+336,2026-01-11,Canada,QC,35,Email
+337,2025-02-06,Canada,QC,33,App Store
+338,2026-02-22,Canada,QC,27,Paid Social
+339,2025-01-13,Canada,BC,34,Referral
+340,2025-02-17,Canada,AB,35,Organic
+341,2025-09-09,Canada,BC,31,Organic
+342,2025-12-04,Canada,QC,40,Organic
+343,2025-12-25,USA,NY,35,Paid Social
+344,2025-11-26,Canada,ON,43,Organic
+345,2025-09-27,Canada,ON,26,Organic
+346,2025-01-20,USA,NY,33,Organic
+347,2026-01-06,USA,NY,27,App Store
+348,2025-01-06,Canada,QC,29,App Store
+349,2025-06-07,Canada,ON,18,Organic
+350,2025-04-16,Canada,NS,29,App Store
+351,2024-09-28,Canada,ON,24,Paid Social
+352,2024-11-23,Canada,ON,36,Organic
+353,2024-12-11,Canada,NS,21,Organic
+354,2025-06-21,USA,NY,18,Paid Social
+355,2025-01-21,Canada,AB,18,Email
+356,2024-09-20,Canada,QC,33,App Store
+357,2026-03-16,USA,CA,23,App Store
+358,2025-05-02,Canada,ON,25,Organic
+359,2025-11-04,Canada,BC,28,App Store
+360,2026-01-25,Canada,BC,28,Organic
+361,2026-02-10,Canada,ON,29,Organic
+362,2025-08-28,Canada,QC,23,Paid Social
+363,2024-11-27,Canada,ON,18,Paid Social
+364,2026-02-02,Canada,ON,48,Paid Social
+365,2025-12-26,Canada,QC,24,App Store
+366,2025-09-01,Canada,AB,36,Paid Social
+367,2024-12-16,Canada,AB,30,Organic
+368,2026-03-14,Canada,ON,22,Referral
+369,2025-12-20,USA,CA,25,Organic
+370,2025-12-13,Canada,QC,31,Organic
+371,2025-03-24,USA,NY,27,Paid Social
+372,2026-03-11,Canada,ON,38,Organic
+373,2025-03-15,Canada,QC,32,Referral
+374,2025-06-07,Canada,QC,28,Paid Social
+375,2025-10-15,Canada,AB,38,Email
+376,2026-01-22,Canada,BC,25,Paid Social
+377,2026-02-14,Canada,QC,39,Paid Social
+378,2025-03-04,Canada,ON,35,Paid Social
+379,2024-11-21,Canada,ON,28,Referral
+380,2025-02-18,Canada,BC,40,Paid Social
+381,2024-10-14,Canada,AB,41,Paid Social
+382,2024-10-29,Canada,QC,24,Referral
+383,2025-09-08,Canada,ON,30,Organic
+384,2025-11-23,Canada,QC,25,Organic
+385,2025-09-11,Canada,ON,33,Organic
+386,2025-12-05,USA,CA,30,Paid Social
+387,2024-11-18,Canada,ON,22,Referral
+388,2025-05-14,USA,CA,29,Organic
+389,2025-03-10,Canada,ON,22,Organic
+390,2025-05-25,Canada,AB,38,Organic
+391,2025-06-20,Canada,BC,37,Organic
+392,2024-11-15,Canada,ON,30,App Store
+393,2025-11-30,USA,CA,39,Email
+394,2025-08-22,Canada,AB,18,Paid Social
+395,2025-06-25,USA,NY,39,Email
+396,2025-02-26,Canada,AB,19,Paid Social
+397,2025-01-03,USA,CA,32,Paid Social
+398,2025-09-05,Canada,ON,24,Paid Social
+399,2026-03-19,Canada,QC,33,Paid Social
+400,2026-01-04,Canada,ON,28,App Store
+401,2024-11-15,Canada,QC,29,Paid Social
+402,2026-02-12,Canada,ON,34,App Store
+403,2026-03-19,Canada,BC,40,Paid Social
+404,2024-10-27,Canada,NS,52,Paid Social
+405,2025-07-09,Canada,QC,24,Paid Social
+406,2026-02-14,USA,NY,43,App Store
+407,2025-05-15,Canada,QC,37,Referral
+408,2026-03-01,Canada,QC,29,Referral
+409,2025-02-05,Canada,QC,18,Paid Social
+410,2024-10-13,Canada,NS,18,Organic
+411,2024-10-17,USA,CA,31,Organic
+412,2025-11-01,Canada,BC,24,Organic
+413,2026-03-13,Canada,QC,40,App Store
+414,2025-10-21,Canada,QC,28,Organic
+415,2024-11-01,Canada,QC,22,Paid Social
+416,2025-01-26,Canada,ON,36,Referral
+417,2025-08-20,USA,CA,36,Paid Social
+418,2025-07-24,Canada,QC,37,Organic
+419,2025-12-05,Canada,QC,37,Paid Social
+420,2025-11-03,Canada,QC,35,App Store
+421,2025-02-11,Canada,NS,44,Organic
+422,2025-02-11,Canada,ON,25,Paid Social
+423,2026-01-24,USA,NY,27,Paid Social
+424,2025-12-13,USA,CA,31,Organic
+425,2025-08-28,Canada,QC,28,App Store
+426,2025-12-26,Canada,QC,42,Organic
+427,2024-12-20,Canada,ON,41,App Store
+428,2025-09-10,Canada,QC,21,Organic
+429,2026-03-30,Canada,QC,27,Paid Social
+430,2026-03-18,Canada,QC,29,Email
+431,2024-12-31,Canada,QC,38,Email
+432,2026-03-26,USA,CA,35,App Store
+433,2025-03-23,Canada,BC,28,Organic
+434,2025-08-08,Canada,NS,32,Paid Social
+435,2025-01-31,Canada,BC,23,Referral
+436,2025-02-14,Canada,ON,30,Referral
+437,2025-07-04,Canada,BC,20,Paid Social
+438,2026-03-31,Canada,QC,30,App Store
+439,2025-09-13,Canada,ON,38,Paid Social
+440,2024-09-28,Canada,BC,36,Organic
+441,2025-04-22,Canada,AB,26,Referral
+442,2025-09-25,Canada,QC,28,Referral
+443,2024-10-03,Canada,ON,29,Paid Social
+444,2025-11-03,Canada,QC,25,Referral
+445,2025-10-26,Canada,ON,23,App Store
+446,2024-11-03,Canada,AB,24,Paid Social
+447,2026-03-29,Canada,ON,25,Paid Social
+448,2025-02-25,Canada,ON,21,Paid Social
+449,2026-03-14,Canada,ON,32,Referral
+450,2025-05-29,Canada,BC,18,Organic
+451,2025-05-11,Canada,QC,24,Email
+452,2025-06-23,Canada,AB,51,Referral
+453,2026-01-14,Canada,ON,18,App Store
+454,2025-06-08,Canada,QC,48,Paid Social
+455,2026-03-11,Canada,ON,47,Email
+456,2025-01-28,Canada,QC,28,Organic
+457,2024-11-20,Canada,ON,24,Paid Social
+458,2025-03-26,Canada,NS,33,Organic
+459,2026-03-30,Canada,BC,39,Referral
+460,2025-05-07,Canada,QC,40,Email
+461,2025-04-20,Canada,BC,39,Referral
+462,2024-12-12,Canada,BC,34,Organic
+463,2026-03-18,USA,CA,38,App Store
+464,2026-01-01,Canada,ON,41,Organic
+465,2025-06-22,Canada,ON,19,Organic
+466,2025-04-26,Canada,ON,18,Referral
+467,2024-10-09,USA,NY,39,Organic
+468,2024-10-08,USA,CA,47,Paid Social
+469,2026-01-21,Canada,QC,30,Organic
+470,2024-10-09,Canada,QC,18,Paid Social
+471,2024-12-19,USA,NY,25,Referral
+472,2026-02-19,Canada,ON,39,Email
+473,2026-01-30,Canada,ON,32,Organic
+474,2025-12-14,Canada,BC,35,Referral
+475,2024-09-15,Canada,AB,33,App Store
+476,2025-02-27,Canada,BC,19,Referral
+477,2025-10-21,Canada,NS,27,Referral
+478,2025-03-09,USA,CA,30,Paid Social
+479,2025-05-13,Canada,QC,23,Organic
+480,2025-08-04,Canada,ON,37,Referral
+481,2024-09-12,Canada,QC,26,Referral
+482,2025-12-21,Canada,ON,36,Paid Social
+483,2026-01-28,USA,NY,42,Referral
+484,2025-06-30,Canada,ON,21,Organic
+485,2025-01-15,Canada,ON,18,Paid Social
+486,2026-03-17,USA,NY,38,App Store
+487,2025-04-12,Canada,AB,25,App Store
+488,2026-02-21,Canada,ON,20,Referral
+489,2024-11-19,USA,NY,43,Email
+490,2025-03-27,Canada,ON,41,Organic
+491,2025-08-02,Canada,MB,18,Referral
+492,2026-01-14,Canada,QC,35,Paid Social
+493,2024-10-27,Canada,ON,21,Organic
+494,2025-12-18,Canada,BC,30,Paid Social
+495,2024-09-23,Canada,ON,37,Paid Social
+496,2024-10-17,Canada,ON,18,Referral
+497,2026-03-09,USA,CA,34,Email
+498,2024-10-03,Canada,QC,29,Organic
+499,2025-01-17,Canada,AB,43,Paid Social
+500,2025-09-27,Canada,ON,29,Email
+501,2025-09-22,Canada,ON,25,Paid Social
+502,2025-08-23,Canada,QC,18,Email
+503,2025-10-08,Canada,ON,30,Organic
+504,2024-09-24,USA,CA,24,Paid Social
+505,2026-03-12,Canada,ON,26,Paid Social
+506,2025-02-06,Canada,QC,35,Email
+507,2024-12-25,Canada,QC,24,Email
+508,2024-09-17,Canada,QC,20,Organic
+509,2024-10-05,Canada,ON,22,Organic
+510,2024-10-16,Canada,ON,18,Organic
+511,2025-04-11,Canada,AB,31,Email
+512,2025-04-28,Canada,NS,26,App Store
+513,2025-07-24,Canada,ON,33,Organic
+514,2025-01-25,USA,CA,18,Paid Social
+515,2025-10-29,Canada,ON,51,App Store
+516,2025-02-27,Canada,BC,39,Paid Social
+517,2026-01-21,Canada,QC,23,Paid Social
+518,2026-02-20,Canada,ON,41,Paid Social
+519,2025-01-31,Canada,QC,35,Organic
+520,2025-04-19,Canada,ON,41,Referral
+521,2025-12-19,USA,NY,18,Paid Social
+522,2025-01-16,Canada,ON,21,Organic
+523,2025-08-05,Canada,BC,46,Organic
+524,2025-03-15,Canada,QC,22,Paid Social
+525,2024-10-11,USA,NY,36,Referral
+526,2026-03-27,Canada,QC,45,Organic
+527,2025-08-07,Canada,ON,36,Organic
+528,2024-12-30,Canada,AB,27,App Store
+529,2025-05-07,Canada,BC,28,Organic
+530,2025-07-27,Canada,AB,22,Paid Social
+531,2026-03-01,Canada,BC,27,App Store
+532,2025-12-22,Canada,QC,38,Email
+533,2025-12-25,Canada,AB,28,Paid Social
+534,2024-10-17,Canada,ON,36,Organic
+535,2025-01-28,Canada,QC,19,Referral
+536,2025-06-30,Canada,QC,27,Paid Social
+537,2025-09-24,Canada,ON,31,Email
+538,2025-08-12,Canada,QC,42,App Store
+539,2026-01-16,Canada,ON,30,Organic
+540,2026-03-14,Canada,ON,22,Email
+541,2026-03-10,USA,CA,41,App Store
+542,2024-11-16,USA,CA,28,Referral
+543,2024-09-07,Canada,ON,34,Referral
+544,2024-09-10,Canada,QC,25,Paid Social
+545,2024-11-01,Canada,BC,24,Paid Social
+546,2026-01-13,Canada,QC,20,Paid Social
+547,2025-10-27,Canada,QC,23,Email
+548,2024-09-18,Canada,ON,29,Referral
+549,2025-11-15,Canada,NS,34,Organic
+550,2025-01-31,Canada,QC,28,Referral
+551,2025-05-17,Canada,NS,30,Paid Social
+552,2025-10-21,Canada,ON,39,Organic
+553,2025-04-20,Canada,QC,32,Email
+554,2024-10-03,Canada,QC,27,Paid Social
+555,2026-03-20,Canada,ON,21,Organic
+556,2025-11-19,Canada,BC,20,Paid Social
+557,2024-12-07,USA,NY,36,Email
+558,2025-12-31,Canada,QC,27,Email
+559,2025-06-15,USA,NY,28,Email
+560,2025-07-20,Canada,QC,30,Organic
+561,2025-01-26,Canada,AB,28,Organic
+562,2025-02-14,Canada,ON,22,Paid Social
+563,2025-10-04,Canada,BC,22,App Store
+564,2024-11-20,Canada,ON,28,Email
+565,2024-10-25,Canada,QC,31,Referral
+566,2025-10-12,USA,CA,34,Paid Social
+567,2025-06-07,Canada,AB,24,Paid Social
+568,2025-09-20,Canada,ON,32,Referral
+569,2025-09-25,Canada,QC,19,Referral
+570,2024-11-24,Canada,QC,20,Paid Social
+571,2025-02-05,Canada,AB,29,Organic
+572,2025-07-13,Canada,ON,34,App Store
+573,2024-12-14,Canada,QC,34,Paid Social
+574,2025-10-23,Canada,QC,40,Organic
+575,2026-03-22,Canada,QC,24,Paid Social
+576,2025-06-26,Canada,ON,26,App Store
+577,2026-03-27,USA,NY,42,Organic
+578,2025-09-25,Canada,QC,29,Organic
+579,2025-06-02,Canada,ON,39,Paid Social
+580,2026-01-09,Canada,AB,34,Paid Social
+581,2025-05-11,Canada,AB,18,Paid Social
+582,2025-01-17,Canada,ON,31,Email
+583,2025-08-07,Canada,MB,18,Paid Social
+584,2025-11-15,Canada,NS,43,App Store
+585,2025-01-18,Canada,ON,19,Paid Social
+586,2025-03-01,USA,CA,22,Email
+587,2025-06-26,Canada,AB,18,App Store
+588,2025-07-31,Canada,ON,18,App Store
+589,2025-10-08,Canada,ON,36,Email
+590,2025-03-04,Canada,BC,28,Paid Social
+591,2025-12-17,USA,CA,35,App Store
+592,2024-11-10,Canada,NS,46,App Store
+593,2025-10-24,Canada,BC,35,Organic
+594,2025-02-05,Canada,AB,36,App Store
+595,2024-11-15,Canada,ON,21,Paid Social
+596,2025-11-03,Canada,ON,24,App Store
+597,2025-09-04,Canada,AB,35,Email
+598,2024-12-21,Canada,AB,19,Referral
+599,2025-08-30,Canada,QC,22,Referral
+600,2025-10-15,USA,CA,23,Paid Social
+601,2025-11-15,Canada,QC,36,App Store
+602,2026-03-26,Canada,BC,34,Paid Social
+603,2025-12-01,Canada,ON,18,Referral
+604,2025-02-02,Canada,ON,34,Organic
+605,2024-12-17,Canada,QC,34,App Store
+606,2025-01-24,Canada,ON,29,Paid Social
+607,2025-03-31,Canada,ON,28,Referral
+608,2025-12-08,Canada,ON,34,Paid Social
+609,2024-12-27,Canada,QC,28,App Store
+610,2025-05-08,Canada,ON,34,Paid Social
+611,2025-08-05,Canada,ON,37,Paid Social
+612,2025-03-08,Canada,QC,29,Referral
+613,2025-10-11,Canada,QC,26,Referral
+614,2025-10-04,Canada,QC,27,Organic
+615,2025-06-13,Canada,AB,32,Organic
+616,2026-03-04,Canada,QC,27,Paid Social
+617,2025-12-13,Canada,QC,26,Email
+618,2025-07-18,Canada,BC,21,Referral
+619,2024-12-26,Canada,ON,38,App Store
+620,2025-07-02,USA,NY,20,Referral
+621,2025-01-16,Canada,ON,31,Paid Social
+622,2025-01-23,Canada,ON,35,Paid Social
+623,2025-01-20,Canada,ON,21,Paid Social
+624,2025-02-25,Canada,ON,35,Paid Social
+625,2025-01-22,Canada,QC,37,App Store
+626,2024-09-10,Canada,ON,20,Organic
+627,2025-09-29,USA,CA,20,Referral
+628,2025-10-31,Canada,AB,30,Paid Social
+629,2025-02-19,Canada,QC,45,Organic
+630,2025-06-09,Canada,QC,33,Organic
+631,2025-12-13,Canada,ON,32,Paid Social
+632,2024-12-26,Canada,QC,20,Paid Social
+633,2025-09-11,Canada,ON,31,Paid Social
+634,2025-04-12,USA,CA,18,Organic
+635,2025-05-12,Canada,QC,40,Paid Social
+636,2024-11-29,Canada,ON,30,Email
+637,2025-05-01,Canada,QC,29,App Store
+638,2025-11-13,Canada,QC,18,Organic
+639,2025-03-31,Canada,NS,34,Paid Social
+640,2026-03-06,Canada,QC,20,Email
+641,2025-06-27,Canada,QC,29,Email
+642,2024-12-07,Canada,QC,48,App Store
+643,2025-10-27,USA,NY,49,Organic
+644,2025-01-14,Canada,QC,30,Referral
+645,2025-05-12,Canada,AB,26,Paid Social
+646,2025-06-03,Canada,BC,21,Paid Social
+647,2024-11-17,Canada,BC,33,Paid Social
+648,2025-06-12,Canada,BC,28,App Store
+649,2025-12-10,USA,CA,30,App Store
+650,2024-12-05,Canada,AB,31,Paid Social
+651,2025-09-02,Canada,MB,33,Email
+652,2025-04-05,Canada,ON,22,Paid Social
+653,2025-06-18,Canada,ON,20,Paid Social
+654,2025-08-18,USA,NY,25,App Store
+655,2024-10-18,Canada,QC,33,Organic
+656,2025-02-09,Canada,ON,21,Organic
+657,2025-11-13,Canada,QC,29,Referral
+658,2025-02-10,USA,NY,26,App Store
+659,2024-12-05,Canada,BC,30,Email
+660,2025-02-17,Canada,QC,39,Referral
+661,2025-04-28,Canada,ON,34,Organic
+662,2024-11-19,Canada,QC,33,Organic
+663,2025-11-30,Canada,QC,25,Email
+664,2025-11-07,Canada,BC,18,Paid Social
+665,2025-04-23,Canada,ON,30,Paid Social
+666,2025-07-04,Canada,QC,26,App Store
+667,2025-01-15,Canada,BC,29,Paid Social
+668,2025-02-16,Canada,ON,27,Referral
+669,2025-02-03,USA,NY,23,Organic
+670,2024-12-12,Canada,QC,24,Organic
+671,2025-09-29,Canada,ON,18,Organic
+672,2024-11-26,Canada,QC,37,Referral
+673,2025-06-19,Canada,AB,24,Referral
+674,2025-07-06,Canada,QC,18,Referral
+675,2025-03-13,Canada,AB,30,App Store
+676,2025-05-04,Canada,ON,33,Organic
+677,2026-01-25,Canada,BC,48,Organic
+678,2025-09-05,USA,CA,39,Organic
+679,2025-11-05,Canada,ON,24,Email
+680,2024-11-14,Canada,QC,18,Organic
+681,2025-05-27,Canada,QC,50,Paid Social
+682,2025-06-21,Canada,BC,20,Paid Social
+683,2025-10-31,Canada,ON,20,Paid Social
+684,2025-02-04,Canada,QC,38,Paid Social
+685,2026-02-06,USA,NY,36,Paid Social
+686,2024-11-07,Canada,ON,30,Paid Social
+687,2025-05-03,Canada,QC,39,Paid Social
+688,2024-10-27,Canada,ON,35,App Store
+689,2025-02-27,Canada,QC,27,Organic
+690,2025-08-22,Canada,ON,18,App Store
+691,2025-05-24,Canada,QC,41,Organic
+692,2024-12-30,Canada,AB,42,Organic
+693,2025-11-14,Canada,QC,44,Paid Social
+694,2024-11-18,Canada,ON,36,Paid Social
+695,2024-10-27,Canada,ON,23,Organic
+696,2024-12-15,USA,NY,27,Referral
+697,2024-12-28,Canada,QC,28,App Store
+698,2025-05-09,Canada,QC,30,Paid Social
+699,2025-02-01,Canada,QC,33,App Store
+700,2025-11-04,Canada,QC,30,Organic
+701,2025-07-25,Canada,QC,38,Paid Social
+702,2024-10-24,Canada,QC,35,App Store
+703,2024-10-18,USA,CA,40,Organic
+704,2025-07-16,Canada,ON,35,Paid Social
+705,2024-09-09,Canada,ON,26,App Store
+706,2025-05-07,Canada,ON,46,Referral
+707,2026-01-19,USA,CA,33,Paid Social
+708,2025-05-10,Canada,QC,18,Email
+709,2024-09-25,Canada,QC,21,App Store
+710,2025-08-10,Canada,QC,45,Referral
+711,2025-07-12,Canada,QC,24,Paid Social
+712,2024-11-01,USA,CA,29,Organic
+713,2025-06-14,Canada,QC,47,Paid Social
+714,2025-09-17,Canada,ON,21,App Store
+715,2024-12-07,Canada,ON,25,Referral
+716,2024-11-03,Canada,ON,24,Email
+717,2025-05-01,Canada,QC,43,Paid Social
+718,2025-08-01,Canada,ON,18,Organic
+719,2024-11-16,USA,CA,41,Organic
+720,2024-12-18,Canada,QC,42,Paid Social
+721,2025-10-22,Canada,QC,21,Paid Social
+722,2025-12-19,Canada,QC,43,Organic
+723,2025-02-09,Canada,NS,26,Referral
+724,2025-04-09,Canada,NS,44,Paid Social
+725,2024-12-03,Canada,AB,39,Organic
+726,2025-07-04,Canada,QC,29,Email
+727,2024-10-02,USA,CA,38,Paid Social
+728,2024-12-06,Canada,ON,21,App Store
+729,2025-01-22,Canada,QC,45,Organic
+730,2025-03-22,Canada,NS,36,Paid Social
+731,2024-11-26,Canada,BC,30,Organic
+732,2024-11-06,Canada,QC,47,Referral
+733,2025-01-10,Canada,QC,40,Organic
+734,2025-12-17,Canada,QC,18,Email
+735,2025-11-18,Canada,NS,29,Referral
+736,2025-02-24,Canada,ON,32,Email
+737,2025-06-09,Canada,QC,32,Referral
+738,2025-05-10,Canada,BC,29,Paid Social
+739,2026-03-18,Canada,ON,38,Paid Social
+740,2026-02-21,Canada,QC,35,Email
+741,2026-03-11,Canada,AB,46,Paid Social
+742,2026-03-12,Canada,AB,29,Paid Social
+743,2026-01-28,Canada,ON,30,Referral
+744,2024-10-01,USA,NY,33,App Store
+745,2024-10-30,Canada,NS,22,Referral
+746,2025-04-27,USA,CA,32,Organic
+747,2025-05-05,Canada,QC,39,Organic
+748,2025-04-13,Canada,ON,18,Email
+749,2025-10-03,Canada,ON,40,Organic
+750,2025-07-23,Canada,NS,18,Referral
+751,2024-09-29,Canada,AB,24,Organic
+752,2025-03-12,Canada,NS,40,App Store
+753,2026-01-18,Canada,ON,32,Organic
+754,2025-04-13,Canada,QC,33,Paid Social
+755,2025-08-06,USA,NY,32,Referral
+756,2025-07-29,Canada,QC,35,Organic
+757,2025-01-24,Canada,AB,41,Email
+758,2025-09-18,Canada,AB,18,Referral
+759,2024-12-13,Canada,ON,20,App Store
+760,2025-11-22,Canada,AB,53,Email
+761,2025-07-22,Canada,QC,44,Email
+762,2025-09-01,Canada,QC,28,Referral
+763,2025-02-27,Canada,ON,30,Organic
+764,2024-09-02,USA,CA,23,Email
+765,2025-10-06,Canada,MB,32,Organic
+766,2025-07-23,USA,NY,19,Email
+767,2025-04-15,Canada,BC,39,Paid Social
+768,2024-11-19,Canada,QC,37,Email
+769,2025-02-19,Canada,BC,47,Referral
+770,2025-08-10,Canada,ON,27,Organic
+771,2025-05-14,Canada,BC,21,Referral
+772,2024-10-20,Canada,ON,43,App Store
+773,2025-02-18,USA,NY,22,Paid Social
+774,2024-12-13,Canada,NS,31,App Store
+775,2025-04-19,Canada,QC,46,Organic
+776,2025-07-24,Canada,QC,38,Organic
+777,2025-08-17,Canada,QC,20,Paid Social
+778,2024-12-05,Canada,ON,41,Email
+779,2026-01-08,Canada,AB,19,Referral
+780,2025-11-19,Canada,QC,36,Organic
+781,2025-03-30,USA,CA,21,Email
+782,2026-03-08,Canada,QC,37,Organic
+783,2025-05-02,Canada,QC,22,Paid Social
+784,2024-10-26,Canada,ON,38,Paid Social
+785,2025-06-29,Canada,NS,23,Organic
+786,2025-03-31,Canada,QC,23,Organic
+787,2024-11-23,Canada,ON,42,Paid Social
+788,2025-05-30,Canada,QC,41,Paid Social
+789,2025-03-09,Canada,ON,26,Organic
+790,2025-11-25,Canada,ON,34,Organic
+791,2025-06-03,Canada,ON,39,Organic
+792,2025-08-19,Canada,NS,42,Paid Social
+793,2025-04-21,Canada,ON,39,Paid Social
+794,2026-03-03,Canada,BC,18,Email
+795,2025-04-30,Canada,ON,48,Referral
+796,2026-01-28,Canada,ON,40,Paid Social
+797,2025-01-29,Canada,QC,31,Email
+798,2025-04-05,Canada,NS,25,Organic
+799,2025-11-08,Canada,QC,28,App Store
+800,2025-01-30,Canada,NS,25,Organic
+801,2024-11-08,Canada,QC,20,App Store
+802,2026-02-15,Canada,ON,27,App Store
+803,2026-02-18,Canada,AB,34,Paid Social
+804,2024-12-12,USA,NY,34,Paid Social
+805,2024-12-13,Canada,AB,43,App Store
+806,2025-05-29,Canada,ON,18,Paid Social
+807,2025-12-29,Canada,QC,30,Referral
+808,2025-10-17,Canada,QC,35,App Store
+809,2025-08-06,Canada,BC,40,Organic
+810,2025-09-17,Canada,QC,34,App Store
+811,2025-07-08,Canada,ON,40,Referral
+812,2025-04-22,Canada,QC,18,Email
+813,2025-11-28,Canada,AB,24,Referral
+814,2024-12-01,Canada,QC,44,Organic
+815,2025-10-22,Canada,AB,32,App Store
+816,2026-02-10,Canada,AB,18,Organic
+817,2026-02-01,Canada,ON,33,Paid Social
+818,2025-02-25,Canada,QC,20,App Store
+819,2024-10-30,Canada,QC,18,Referral
+820,2025-06-08,Canada,ON,36,Paid Social
+821,2025-10-12,Canada,BC,32,Paid Social
+822,2025-12-01,Canada,QC,32,App Store
+823,2026-03-19,Canada,ON,40,App Store
+824,2024-12-02,Canada,QC,47,Paid Social
+825,2025-02-14,Canada,MB,32,Organic
+826,2025-04-19,Canada,BC,24,Organic
+827,2025-10-25,Canada,ON,46,Referral
+828,2025-12-30,USA,NY,18,Referral
+829,2024-09-09,Canada,QC,18,Referral
+830,2025-06-09,Canada,ON,18,Paid Social
+831,2025-08-24,Canada,ON,32,Paid Social
+832,2025-10-12,Canada,BC,38,Organic
+833,2025-09-19,Canada,ON,24,Referral
+834,2026-01-07,Canada,QC,26,Email
+835,2025-07-30,Canada,MB,30,App Store
+836,2025-07-03,Canada,QC,45,Paid Social
+837,2025-05-05,USA,NY,36,Referral
+838,2025-07-25,Canada,BC,18,Referral
+839,2026-01-23,USA,CA,30,Paid Social
+840,2024-10-07,Canada,BC,40,Email
+841,2025-03-14,Canada,ON,27,Referral
+842,2026-01-01,USA,NY,18,Referral
+843,2026-02-02,Canada,ON,37,Paid Social
+844,2025-06-28,Canada,QC,42,Organic
+845,2025-05-23,Canada,AB,18,Email
+846,2025-08-10,Canada,BC,23,Organic
+847,2025-04-17,Canada,AB,25,Paid Social
+848,2025-05-25,Canada,BC,45,Paid Social
+849,2024-12-30,Canada,ON,38,Email
+850,2024-11-12,Canada,ON,22,Organic
+851,2025-01-01,Canada,MB,25,Organic
+852,2025-02-02,Canada,QC,36,Organic
+853,2025-10-25,USA,CA,51,Organic
+854,2025-03-04,Canada,AB,18,Paid Social
+855,2025-03-01,Canada,ON,40,Organic
+856,2025-02-20,Canada,ON,34,Organic
+857,2024-11-30,Canada,QC,22,Paid Social
+858,2026-01-02,Canada,ON,34,Organic
+859,2025-03-24,Canada,AB,49,App Store
+860,2026-02-26,Canada,QC,25,Referral
+861,2025-05-13,Canada,QC,36,Organic
+862,2026-01-29,Canada,BC,25,Organic
+863,2024-10-17,Canada,QC,27,Referral
+864,2025-08-12,Canada,ON,45,Referral
+865,2025-01-16,Canada,ON,37,Organic
+866,2025-10-19,Canada,QC,26,Organic
+867,2025-01-13,Canada,QC,41,Organic
+868,2024-10-09,Canada,ON,32,Referral
+869,2026-03-02,Canada,BC,28,Organic
+870,2024-09-21,Canada,QC,29,Organic
+871,2025-11-29,Canada,ON,21,Organic
+872,2024-09-10,Canada,ON,28,Referral
+873,2026-02-15,Canada,QC,27,App Store
+874,2024-12-17,Canada,ON,27,Referral
+875,2025-06-17,Canada,QC,35,Organic
+876,2025-05-28,Canada,NS,34,Email
+877,2025-09-02,Canada,AB,30,Paid Social
+878,2025-04-01,Canada,BC,33,Paid Social
+879,2025-04-29,Canada,QC,21,App Store
+880,2026-01-19,Canada,QC,18,Organic
+881,2026-02-06,Canada,QC,27,Referral
+882,2025-12-12,USA,CA,18,Organic
+883,2025-12-20,Canada,QC,38,App Store
+884,2025-09-04,Canada,NS,18,Paid Social
+885,2024-12-28,Canada,QC,31,App Store
+886,2025-02-22,Canada,ON,28,App Store
+887,2025-06-02,USA,NY,44,Organic
+888,2025-10-16,Canada,ON,40,Paid Social
+889,2025-09-30,Canada,BC,21,App Store
+890,2025-02-18,Canada,QC,32,Referral
+891,2024-10-31,USA,CA,33,Email
+892,2026-01-08,Canada,NS,27,Referral
+893,2025-03-05,Canada,BC,33,App Store
+894,2025-01-12,Canada,ON,18,Paid Social
+895,2025-10-27,Canada,ON,43,Organic
+896,2026-02-20,Canada,AB,36,Paid Social
+897,2025-04-18,USA,CA,27,Paid Social
+898,2024-12-07,Canada,ON,23,Referral
+899,2026-01-07,Canada,ON,27,App Store
+900,2026-03-26,USA,NY,23,Referral
+901,2024-09-12,Canada,BC,40,App Store
+902,2025-02-17,Canada,QC,45,Paid Social
+903,2025-05-05,Canada,ON,29,Paid Social
+904,2025-09-23,Canada,ON,41,Organic
+905,2025-12-15,Canada,ON,27,Paid Social
+906,2025-07-21,Canada,QC,29,Paid Social
+907,2024-09-19,Canada,QC,21,Organic
+908,2024-12-03,Canada,AB,37,Email
+909,2025-07-09,USA,NY,18,Paid Social
+910,2025-08-16,Canada,ON,25,Organic
+911,2025-04-17,Canada,MB,23,Referral
+912,2025-09-08,Canada,AB,44,Organic
+913,2025-04-16,Canada,QC,23,App Store
+914,2026-03-15,Canada,ON,41,Referral
+915,2024-10-17,USA,NY,18,App Store
+916,2025-10-25,Canada,QC,31,Referral
+917,2025-03-12,Canada,QC,34,App Store
+918,2025-03-15,Canada,AB,25,Organic
+919,2025-10-30,Canada,QC,22,Organic
+920,2025-12-06,Canada,ON,21,Referral
+921,2026-01-30,Canada,QC,19,Organic
+922,2025-11-18,Canada,NS,31,Paid Social
+923,2026-02-03,Canada,AB,42,Organic
+924,2025-01-10,Canada,QC,23,Referral
+925,2025-07-27,Canada,ON,18,Email
+926,2025-05-13,Canada,QC,47,Email
+927,2025-06-29,Canada,ON,37,Referral
+928,2026-02-07,Canada,QC,37,Referral
+929,2025-07-19,Canada,AB,42,Organic
+930,2025-06-25,Canada,BC,25,Email
+931,2025-01-14,USA,CA,18,Paid Social
+932,2025-07-28,Canada,AB,18,App Store
+933,2026-03-30,Canada,ON,18,Paid Social
+934,2026-03-01,Canada,QC,25,App Store
+935,2024-09-14,Canada,ON,35,Referral
+936,2025-03-24,Canada,QC,31,App Store
+937,2025-06-21,Canada,BC,32,App Store
+938,2025-03-28,Canada,AB,33,Organic
+939,2025-12-08,Canada,QC,40,App Store
+940,2026-03-29,Canada,ON,20,Paid Social
+941,2025-06-22,Canada,BC,39,Paid Social
+942,2025-07-18,USA,CA,33,Organic
+943,2025-05-16,Canada,QC,43,Paid Social
+944,2025-04-19,USA,NY,18,Referral
+945,2025-09-12,Canada,AB,19,App Store
+946,2025-03-18,Canada,QC,27,Organic
+947,2024-11-16,Canada,QC,35,Paid Social
+948,2025-11-13,Canada,QC,40,Organic
+949,2025-02-12,Canada,BC,30,Referral
+950,2025-02-06,Canada,QC,39,Email
+951,2024-10-23,Canada,AB,18,Paid Social
+952,2026-03-18,Canada,ON,18,App Store
+953,2025-07-23,Canada,ON,41,App Store
+954,2025-02-11,Canada,ON,28,Paid Social
+955,2024-12-04,Canada,ON,40,Paid Social
+956,2025-06-28,Canada,QC,22,App Store
+957,2026-02-26,Canada,ON,18,Referral
+958,2024-12-27,Canada,BC,25,Paid Social
+959,2025-05-08,USA,CA,27,Email
+960,2024-12-26,Canada,ON,23,Paid Social
+961,2025-06-17,Canada,QC,18,Paid Social
+962,2026-02-03,Canada,ON,29,Organic
+963,2025-03-17,Canada,ON,34,Email
+964,2026-03-05,Canada,ON,32,Referral
+965,2025-04-04,Canada,BC,33,Paid Social
+966,2024-12-16,Canada,QC,18,App Store
+967,2025-11-20,Canada,BC,44,Organic
+968,2025-12-15,Canada,AB,25,Organic
+969,2024-11-15,Canada,QC,34,Paid Social
+970,2025-04-22,USA,NY,19,Paid Social
+971,2025-12-06,Canada,BC,29,Referral
+972,2026-03-02,Canada,QC,31,Referral
+973,2024-11-04,Canada,AB,18,Organic
+974,2026-01-28,Canada,QC,23,App Store
+975,2025-07-06,Canada,BC,26,Paid Social
+976,2024-10-02,Canada,ON,51,Paid Social
+977,2025-01-18,Canada,AB,36,Organic
+978,2025-01-26,Canada,QC,18,App Store
+979,2025-09-18,USA,CA,49,Organic
+980,2024-10-13,Canada,QC,32,Referral
+981,2026-03-05,Canada,ON,36,App Store
+982,2025-08-19,Canada,QC,34,Email
+983,2026-02-07,Canada,QC,36,Organic
+984,2024-12-27,Canada,QC,42,App Store
+985,2024-10-26,Canada,MB,57,Paid Social
+986,2026-03-17,Canada,QC,19,Referral
+987,2025-05-15,Canada,QC,29,Paid Social
+988,2025-01-10,Canada,BC,20,Organic
+989,2025-06-19,Canada,BC,37,Paid Social
+990,2025-07-11,Canada,BC,26,Organic
+991,2025-09-09,Canada,NS,36,Paid Social
+992,2025-04-15,Canada,AB,29,Referral
+993,2025-06-11,Canada,MB,40,App Store
+994,2025-12-18,Canada,ON,41,App Store
+995,2026-01-12,Canada,ON,36,App Store
+996,2025-01-22,USA,NY,41,Organic
+997,2024-11-18,Canada,AB,44,Referral
+998,2025-10-20,Canada,AB,20,Organic
+999,2024-10-08,Canada,ON,18,Paid Social
+1000,2025-01-31,Canada,ON,22,Organic
